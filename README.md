@@ -22,7 +22,7 @@ Claire, the Call Centre Manager at PhoneNow, requested a dashboard to provide tr
 
 2. How data visualization helps in decision-making.
 
-🔹 What I Did:
+## 🔹 What I Did:
 
 ✅ Built a Power BI dashboard analyzing call centre trends.
 
@@ -44,7 +44,7 @@ Following the success of the Call Centre Trends dashboard, the Retention Manager
 
 2. Importance of predictive analysis in customer churn prevention.
 
-🔹 What I Did:
+## 🔹 What I Did:
 
 ✅ Developed a Customer Retention Dashboard with key insights.
 
@@ -66,7 +66,7 @@ The HR team was struggling with gender diversity at the executive management lev
    
 2. Identifying root causes of slow progress in gender balance.
 
-🔹 What I Did:
+## 🔹 What I Did:
 
 ✅ Created a Diversity & Inclusion Dashboard visualizing gender-based workforce insights.
 
@@ -98,8 +98,14 @@ Explore the visualizations and interact with the dashboards.
 
 # 🔗 Additional Links
 
-PwC Virtual Case Study: Forage Website
+PwC Virtual Case Study: [PwC Switzerland Power BI](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg)
 
-My LinkedIn Profile: [Your LinkedIn URL]
+My LinkedIn Profile: [Tanishq Chandravanshi](https://www.linkedin.com/in/tanishq-chandravanshi-b6a026213/)
 
-Portfolio Website: [Your Portfolio URL]
+Portfolio Website: [Tanishq Chandravanshi](https://tanishqchandravanshi.netlify.app/)
+
+## 📌 Next Steps
+✅ Upload the reports & README to GitHub ()
+🔜 Showcase on LinkedIn (https://www.linkedin.com/in/tanishq-chandravanshi-b6a026213/)
+🔜 Add to Portfolio Website (https://tanishqchandravanshi.netlify.app/)
+🔜 Feature on Resume
