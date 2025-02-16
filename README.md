@@ -18,12 +18,12 @@ You can view my **[certificate here]([./PwC_Certificate.pdf](https://drive.googl
 ### **2️⃣ Customer Retention**  
 📌 **Task:** Identify customer demographics and retention patterns to improve engagement strategies.  
 📌 **Deliverable:** Dashboard visualizing customer behaviors, churn risk, and retention KPIs.  
-📌 **File:** [`Call Center Customer Behaviour.pbix`](./Call%20Center%20Customer%20Behaviour.pbix)  
+📌 **File:** [`Customer Retension.pbix`](https://github.com/vans2045/PwC-Power-BI-Virtual-Case-Study/raw/refs/heads/main/Customer%20Retention/Customer%20retension.pbix) 
 
 ### **3️⃣ Diversity & Inclusion**  
 📌 **Task:** Assess gender diversity and inclusion in executive management roles.  
 📌 **Deliverable:** Visualizations highlighting hiring, promotions, and performance trends by gender.  
-📌 **File:** [`Diversity & Inclusion.pbix`](./Diversity%20&%20Inclusion.pbix)  
+📌 **File:** [`Diversity & Inclusion.pbix`](https://github.com/vans2045/PwC-Power-BI-Virtual-Case-Study/raw/refs/heads/main/Diversity-Inclusion/Diversity-Inclusion.pbix)  
 
 ---
 
