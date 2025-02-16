@@ -106,6 +106,9 @@ Portfolio Website: [Tanishq Chandravanshi](https://tanishqchandravanshi.netlify.
 
 ## 📌 Next Steps
 ✅ Upload the reports & README to GitHub ()
+
 🔜 Showcase on LinkedIn (https://www.linkedin.com/in/tanishq-chandravanshi-b6a026213/)
+
 🔜 Add to Portfolio Website (https://tanishqchandravanshi.netlify.app/)
+
 🔜 Feature on Resume
