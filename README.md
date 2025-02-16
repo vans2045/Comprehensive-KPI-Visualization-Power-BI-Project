@@ -4,7 +4,7 @@ It includes data visualizations and dashboards designed to address business chal
 
 ## 🏆 Certification  
 I successfully completed the **PwC Power BI Virtual Case Study** on Forage.  
-You can view my **[certificate here]([./PwC_Certificate.pdf](https://drive.google.com/file/d/1HCUMD5pcjl4bIhn-xHaPNPykkuRbXPoA/view?usp=sharing))**.  
+You can view my **[certificate here](https://drive.google.com/file/d/1HCUMD5pcjl4bIhn-xHaPNPykkuRbXPoA/view?usp=sharing)**.  
 
 ---
 
