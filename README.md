@@ -10,7 +10,7 @@ This repository contains my Power BI dashboards and reports created as part of t
 
 # 📂 Project Tasks & Learnings
 
-# 📊 Task 1: Call Centre Trends
+## 📊 Task 1: Call Centre Trends
 
 📧 Request from Call Centre Manager (Claire):
 
