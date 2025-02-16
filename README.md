@@ -8,15 +8,15 @@
 
 This repository contains my Power BI dashboards and reports created as part of the PwC Virtual Case Experience on Forage. The case study focused on analyzing business data and providing actionable insights for various business scenarios.
 
-## 📂 Project Tasks & Learnings
+# 📂 Project Tasks & Learnings
 
-### 📊 Task 1: Call Centre Trends
+# 📊 Task 1: Call Centre Trends
 
 📧 Request from Call Centre Manager (Claire):
 
 Claire, the Call Centre Manager at PhoneNow, requested a dashboard to provide transparency into call centre operations, including total calls answered/abandoned, response time, call duration, and customer satisfaction trends.
 
-#### 🔹 Learnings:
+## 🔹 Learnings:
 
 The significance of real-time KPIs in call centre operations.
 
