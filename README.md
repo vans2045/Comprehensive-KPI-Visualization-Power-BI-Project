@@ -13,7 +13,7 @@ You can view my **[certificate here]([./PwC_Certificate.pdf](https://drive.googl
 ### **1️⃣ Call Center Trends**  
 📌 **Task:** Analyze call center performance metrics to identify long-term trends.  
 📌 **Deliverable:** Power BI dashboard showcasing key metrics like call volume, response times, and customer satisfaction.  
-📌 **File:** [`Call Center Trends.pbix`](./Call%20Center%20trends/Call%20Center%20Trends.pbix) 
+📌 **File:** [`Call Center Trends.pbix`]([./Call%20Center%20trends/Call%20Center%20Trends.pbix](https://github.com/vans2045/PwC-Power-BI-Virtual-Case-Study/raw/refs/heads/main/Call%20Center%20trends/Call%20Center%20Trends.pbix)) 
 
 ### **2️⃣ Customer Retention**  
 📌 **Task:** Identify customer demographics and retention patterns to improve engagement strategies.  
