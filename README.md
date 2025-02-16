@@ -27,6 +27,19 @@ You can view my **[certificate here]([./PwC_Certificate.pdf](https://drive.googl
 
 ---
 
+## 📊 Dataset  
+The datasets used in this project are publicly available as part of PwC’s **Power BI Virtual Case Experience** on Forage. The data files have been included in this repository for transparency and to help others replicate the analysis.  
+
+📂 **Datasets:**  
+
+- 📄 [Call Center Data.csv](Call Center Data.csv)  
+- 📄 [Customer Retention Data.csv](Customer Retention Data.csv)  
+- 📄 [HR Diversity Data.csv](HR Diversity Data.csv)  
+
+> **Note:** These datasets are used solely for educational purposes as part of a free learning experience provided by PwC.  
+
+---
+
 ## 📢 Summary of Key Learnings  
 ✔ **Data Analysis & Visualization** – Transforming raw data into meaningful insights using Power BI.  
 ✔ **Power BI (Reports, Dashboards, DAX)** – Creating interactive dashboards, writing DAX formulas, and optimizing reports.  
