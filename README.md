@@ -32,9 +32,9 @@ The datasets used in this project are publicly available as part of PwC’s **Po
 
 📂 **Datasets:**  
 
-- 📄 [Call Center Data.csv](Call Center Data.csv)  
-- 📄 [Customer Retention Data.csv](Customer Retention Data.csv)  
-- 📄 [HR Diversity Data.csv](HR Diversity Data.csv)  
+- 📄 [Call Center Data.csv](https://github.com/vans2045/PwC-Power-BI-Virtual-Case-Study/raw/refs/heads/main/Call%20Center%20trends/01%20Call-Center-Dataset.xlsx)  
+- 📄 [Customer Retention Data.csv](https://github.com/vans2045/PwC-Power-BI-Virtual-Case-Study/raw/refs/heads/main/Customer%20Retention/02%20Churn-Dataset.xlsx)
+- 📄 [HR Diversity Data.csv](https://github.com/vans2045/PwC-Power-BI-Virtual-Case-Study/raw/refs/heads/main/Diversity-Inclusion/03%20Diversity-Inclusion-Dataset%20(1).xlsx)
 
 > **Note:** These datasets are used solely for educational purposes as part of a free learning experience provided by PwC.  
 
