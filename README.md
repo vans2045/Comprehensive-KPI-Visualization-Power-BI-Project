@@ -3,7 +3,7 @@ This repository contains Power BI reports created as part of the **PwC Power BI 
 It includes data visualizations and dashboards designed to address business challenges related to **Call Center Trends, Customer Retention, and Diversity & Inclusion**.  
 
 ## 🏆 Certification  
-I successfully completed the **PwC Power BI Virtual Case Study** on Forage.  
+I successfully completed the **PwC Power BI Virtual Case Study** on Forage..
 You can view my **[certificate here](https://drive.google.com/file/d/1HCUMD5pcjl4bIhn-xHaPNPykkuRbXPoA/view?usp=sharing)**.  
 
 ---
